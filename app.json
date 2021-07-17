@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "DyteCamScanner_v3",
+    "slug": "DyteCamScanner_v3",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "DyteCamScanner_v3"
+}
